@@ -114,3 +114,46 @@ To https://github.com/xxxxxxxx/myblogs.git
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/myblogs (master)
 $
+
+
+
+
+提取远程仓库
+Administrator@DD-20150303FPEN MINGW32 /e/Java/SpringMvcProject (master)
+$ git fetch
+
+Administrator@DD-20150303FPEN MINGW32 /e/Java/SpringMvcProject (master)
+$ git merge
+Already up-to-date.
+
+Administrator@DD-20150303FPEN MINGW32 /e/Java/SpringMvcProject (master)
+$ git pull
+Already up-to-date.
+
+Administrator@DD-20150303FPEN MINGW32 /e/Java/SpringMvcProject (master)
+$ git pull
+
+remote: Counting objects: 8, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 8 (delta 3), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (8/8), done.
+From https://github.com/923794377/SpringMvcProject
+   dee08b1..f61e6bc  master     -> origin/master
+Updating dee08b1..f61e6bc
+Fast-forward
+ Maven+SpingMvc/src/main/webapp/html/test.html | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Maven+SpingMvc/src/main/webapp/html/test.html
+
+Administrator@DD-20150303FPEN MINGW32 /e/Java/SpringMvcProject (master)
+$
+
+Administrator@DD-20150303FPEN MINGW32 /e/Java/SpringMvcProject (master)
+$
+
+
+
+以下是菜鸟教程git教程链接http://www.runoob.com/git/git-remote-repo.html
+
+
+
