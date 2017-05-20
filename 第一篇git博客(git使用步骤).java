@@ -1,4 +1,5 @@
-1.先在github创建远程项目(仓库)
+1.安装git
+1.先在github创建远程项目(仓库)国内可以使用码云,类似github
 2.在本地git.base使用命令 git clone https://github.com/xxxxxxxx/myblogs.git(仓库在github的地址)
 3.在克隆的git仓库项目中 添加项目和文件
 4.具体操作如下
