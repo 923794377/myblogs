@@ -149,3 +149,5 @@ done.
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/newku
 $ cd
+
+还有建立ssh
