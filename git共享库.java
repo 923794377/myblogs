@@ -1,4 +1,4 @@
-
+1
 Administrator@DD-20150303FPEN MINGW32 ~ (master)
 $ git config --global user.name xxxxxxxx
 
