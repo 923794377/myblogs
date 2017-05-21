@@ -1,9 +1,9 @@
 
 Administrator@DD-20150303FPEN MINGW32 ~ (master)
-$ git config --global user.name 923794377
+$ git config --global user.name xxxxxxxx
 
 Administrator@DD-20150303FPEN MINGW32 ~ (master)
-$ git config --global user.email 923794377@qq.com
+$ git config --global user.email xxxxxxxx@qq.com
 
 Administrator@DD-20150303FPEN MINGW32 ~ (master)
 $ cd E:\Java
@@ -57,7 +57,7 @@ $ cd mygitku
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
 $ ls
-'git博客(git使用步骤).java'   index.html   test.html   text.txt
+'git鍗氬(git浣跨敤姝ラ).java'   index.html   test.html   text.txt
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
 $ git status
@@ -79,8 +79,8 @@ Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
 $ git add .
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
-$ git commit -m "新的"
-[master (root-commit) e5644c9] 新的
+$ git commit -m "鏂扮殑"
+[master (root-commit) e5644c9] 鏂扮殑
  4 files changed, 799 insertions(+)
  create mode 100644 "git\345\215\232\345\256\242(git\344\275\277\347\224\250\346\255\245\351\252\244).java"
  create mode 100644 index.html
@@ -96,7 +96,7 @@ nothing to commit, working tree clean
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
 $ ls
-'git博客(git使用步骤).java'   index.html   test.html   text.txt
+'git鍗氬(git浣跨敤姝ラ).java'   index.html   test.html   text.txt
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
 $ git status
@@ -116,8 +116,8 @@ Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
 $ git add .
 
 Administrator@DD-20150303FPEN MINGW32 /e/Java/kutest/mygitku (master)
-$ git commit -m "新的"
-[master b219951] 新的
+$ git commit -m "鏂扮殑"
+[master b219951] 鏂扮殑
  3 files changed, 640 insertions(+)
  create mode 100644 "index - \345\211\257\346\234\254.html"
  create mode 100644 "test - \345\211\257\346\234\254.html"
@@ -150,4 +150,4 @@ done.
 Administrator@DD-20150303FPEN MINGW32 /e/Java/newku
 $ cd
 
-还有建立ssh
+杩樻湁寤虹珛ssh
